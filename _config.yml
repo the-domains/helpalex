@@ -1,0 +1,31 @@
+layout_spectrum: 0.5634392274372133
+typography_spectrum: 0.8966202775423074
+color:
+  brandStrength: 0.4539584759742686
+  lightness: 0.7136917739008359
+  saturation: 0.2918384569338384
+  rhythmicContrast: 0.8608991363061832
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: helpalex
+content: []
+title: Help Alex
+description: Alex needs urgent bone marrow transplant - Are you a match?
+purpose:
+  - type: external
+    url: 'https://www.blood.ca/en/onematchhowto'
+    label: Canadian Blood Services - One Match
+author:
+  name: Kris Hansen
+github: true
