@@ -16,16 +16,16 @@ description: >-
   diagnosed with a rare disease known as aplastic anemia that prompted a search
   for a bone marrow transplant.
 app_links: []
-isBasedOnUrl: >-
-  http://www.stonyplainreporter.com/2017/11/23/st-albert-family-looking-for-bone-marrow-donor
 title: St. Albert family looking for bone marrow donor
-datePublished: '2017-12-07T02:05:14.585Z'
-dateModified: '2017-12-07T02:05:06.187Z'
+datePublished: '2017-12-07T02:18:11.371Z'
+dateModified: '2017-12-07T02:18:11.019Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-12-06-st-albert-family-looking-for-bone-marrow-donor.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-12-07T02:05:14.585Z'
+url: st-albert-family-looking-for-bone-marrow-donor/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
