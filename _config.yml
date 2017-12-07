@@ -57,7 +57,4 @@ content:
       Burden (@aaronburden)
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Alex needs urgent bone marrow transplant - Are you a match?
-purpose:
-  - type: internal
-    label: Contact Form
-    item: 7007957e-65d1-4f5f-bedb-b3ec4ddfd53c
+purpose: []
