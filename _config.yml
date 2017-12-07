@@ -22,10 +22,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: Article
-    id: 714f2cf5-16ff-42f0-935d-1dc959493e0f
-    type: content
 title: Help Alex
 content: []
 description: Alex needs urgent bone marrow transplant - Are you a match?
