@@ -25,7 +25,4 @@ colors:
 title: Help Alex
 content: []
 description: Alex needs urgent bone marrow transplant - Are you a match?
-purpose:
-  - type: internal
-    label: Fill out a donor contact form
-    item: 7007957e-65d1-4f5f-bedb-b3ec4ddfd53c
+purpose: []
